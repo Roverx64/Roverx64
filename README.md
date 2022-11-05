@@ -1,6 +1,9 @@
-# Main projects
--RoverOS  
--MusicManager  
+# Active projects
+* RoverOS  
+* RoverOS website
 # Future projects
--Neuron  
--Vault
+* Neuron  
+* Vault  
+* MusicManager  
+* Archive manager  
+* File recovery software

@@ -1,7 +1,6 @@
 # Active projects
 * RoverOS  
 * RoverOS website
-* Archiver  
 * Polyedit
 # Future projects
 * Neuron  

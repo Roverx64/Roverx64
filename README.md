@@ -16,6 +16,8 @@
 ### Active projects:
 * RoverOS
 * RoverOS website
+---
+### Discontinued projects:
 * Polyedit
 ---
 ### Future projects:

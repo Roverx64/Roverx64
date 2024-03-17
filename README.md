@@ -8,7 +8,7 @@
 * Low level programming
 * SoC/embedded development
 * Aarch64/ARM
-* x86_64
+* x86_64/AMD64
 * Almost anything with C code
 * Photography
 * Reading
@@ -21,14 +21,16 @@
 * Polyedit
 ---
 ### Future projects:
-* Neuron (Simulating basic neuron interactions)
-* File recovery software (As the name says)
+* Plant watering automation with Arduino
+* Basic archiving software for managing long term storage drives
 ---
 ### Links
 YT: 
 <a href="https://www.youtube.com/@roverx64">
   <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="60" height="30" alt="Roverx64"/>
 </a>  
+Website: 
+https://roveros.org
 ---
 ### Contact
 * Ask for my Discord ⚱️

@@ -17,13 +17,12 @@
 * RoverOS
 * RoverOS website
 * Chisai
-* Automated plant watering
+* Automated plant watering with ESP32s and a master server using SDL & microui
 ---
 ### Discontinued projects:
 * Polyedit
 ---
 ### Future projects:
-* Plant watering automation with Arduino
 * Basic archiving software for managing long term storage drives
 ---
 ### Links
@@ -35,4 +34,4 @@ Website:
 https://roveros.org
 ---
 ### Contact
-* Ask for my Discord ⚱️
+* Ask for my Discord

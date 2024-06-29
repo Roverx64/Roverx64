@@ -17,6 +17,7 @@
 * RoverOS
 * RoverOS website
 * Chisai
+* Automated plant watering
 ---
 ### Discontinued projects:
 * Polyedit

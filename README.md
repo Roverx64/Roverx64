@@ -16,6 +16,7 @@
 ### Active projects:
 * RoverOS
 * RoverOS website
+* Chisai
 ---
 ### Discontinued projects:
 * Polyedit

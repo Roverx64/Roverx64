@@ -1,13 +1,8 @@
-### About me
-* Slow to push new code (I like to make it work before pushing (usually))
-* Constantly rewriting old code
-* Slow to make videos
----
 ### Interests:
 * HolyC
 * Low level programming
 * SoC/embedded development
-* Aarch64/ARM
+* ARM
 * x86_64/AMD64
 * Almost anything with C code
 * Photography
@@ -17,7 +12,7 @@
 * RoverOS
 * RoverOS website
 * Chisai
-* Automated plant watering with ESP32s and a master server using SDL & microui
+* Automated plant watering with ESP32s and a master server using SDL & biju
 ---
 ### Discontinued projects:
 * Polyedit

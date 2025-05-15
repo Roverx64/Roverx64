@@ -12,6 +12,7 @@
 * RoverOS
 * RoverOS website
 * Chisai
+* SEFI
 * Automated plant watering with ESP32s and a master server using SDL & biju
 ---
 ### Discontinued projects:
